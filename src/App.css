@@ -13,7 +13,7 @@
 }
 
 body{
-  height: calc(100% - 2rem);
+  height: calc(100% - 5rem);
   background-image: url(https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2022/06/29/2779824.jpg);
   background-size: cover;
 }
